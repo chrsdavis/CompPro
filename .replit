@@ -1,2 +1,2 @@
 language = "bash"
-run = "g++ BinarySearch.cpp"
+run = "g++ ./BinarySearch.cpp && ./a.out"
