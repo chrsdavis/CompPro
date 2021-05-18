@@ -23,12 +23,3 @@ int binSrch(T container[], T x, int lb, int ub){
   }
   return -1;
 }
-
-
-int main()
-{
-  int arr[1];
-  int x = 1;
-  binSrch(arr, x, 0, sizeof(arr)-1);
-  return 0;
-}
