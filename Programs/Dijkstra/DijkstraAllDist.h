@@ -4,6 +4,9 @@
 
 using namespace std;
 
+//Finds shortest distance from one node to every other node (NOT PATHFINDING)
+
+
 typedef pair<int,int> Pair;
 
 
